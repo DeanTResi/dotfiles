@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dean@resi.co.uk
+	name = Dean Tresadern
